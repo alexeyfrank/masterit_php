@@ -1,0 +1,15 @@
+.align-center {
+  text-align: center;
+}
+
+header {
+	min-height: 150px;
+	padding-top: 15px;
+}
+
+header .brand {
+	display: block;
+	width: 169px;
+	height: 67px;
+	background: url('/assets/components/themebootstrap/img/LogoMasterIT.gif');
+}
